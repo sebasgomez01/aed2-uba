@@ -1,0 +1,6 @@
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/correrValgrind.dir
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/correrTests.dir
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/gtest_main.dir
+/mnt/c/users/Usuario/Desktop/aed2-uba/Laboratorios/labo9/ejercitacion_heap (1)/ejercitacion_heap/build/CMakeFiles/gtest.dir
